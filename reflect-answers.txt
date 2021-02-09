@@ -1,0 +1,24 @@
+Describing command line:
+
+-As a beginner in the web developing world, I am using Git for Windows as my command line.
+A command line is program that operates from a shell and it allows you to create new
+folders and/or directorys in your computers file by typing in specific commands for each task
+
+I did not stick to the timebox guidelines. I did a lot more time because basically I was
+having fun learning new commands
+
+5 commands I used:
+ls
+- it lists all folders within the files that is currently working on
+
+cd
+- change to new directory
+
+mkdir
+- make new directory if needed
+
+cd ..
+- to go to previous directory
+
+touch
+- create a new file
